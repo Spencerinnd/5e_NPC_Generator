@@ -1,5 +1,5 @@
 # 5e_NPC_Generator
- Simple D&D 5e NPC Generator based info from official DM Screen  
+ Simple D&D 5e NPC Generator based on info from official DM Screen  
   
 This was created in python and built into an executable in 2017.  
 To run, download the repo, extract it, and run the executable file at "5e_NPC_Generator\NPC_Generator.exe".  
