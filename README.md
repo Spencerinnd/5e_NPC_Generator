@@ -6,5 +6,5 @@ To run, download the repo, extract it, and run the executable file at "5e NPC Ge
 It will run a simple program in a terminal window which will prompt you for a number of NPCs to generate.
 They will be generated and displayed in the terminal and saved in a text file at "5e NPC Generator\NPCs.txt".
 If run again, the text file will be overwritten, so save it elsewhere if you need.
-<br />
+<br /> <br />
 Based on official DM screen (picture included)
