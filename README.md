@@ -8,4 +8,3 @@ They will be generated and displayed in the terminal and saved in a text file at
 If run again, the text file will be overwritten, so save it elsewhere if you need.
 <br /> <br />
 Based on official DM screen (picture included)
-![Alt text](5e DM Screen NPC Generator.png?raw=true "")
